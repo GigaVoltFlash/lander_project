@@ -5,7 +5,8 @@ The goal of this project is to create a small 6-inch rocket that can estimate it
 ## Requirements:
 * The rocket must be capable of soft landing on a flat surface when dropped from 20 ft and with an initial pitch disturbance of $\pm 5 \degree$ in the absence of wind. No requirement is made for the rocket in the presence of wind at this time.
 * The rocket must be capable of generating thrust equal to or greater than its weight
-* The rocket, as it is falling, should be unable to correct itself to an upright position passively. This is to ensure that any ability to make itself upright is done primarily using the active control system.
+* The rocket, as it is falling, should be unable to correct itself to an upright position passively. This is to ensure that any ability to make itself upright is done primarily using the active control system
+* The landing legs must be structurally capable of enduring 100 landings of the rocket while negligibly affecting the dynamics of the rocket.
 
 
 ## Objectives:
