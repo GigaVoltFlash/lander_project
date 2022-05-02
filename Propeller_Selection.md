@@ -5,6 +5,5 @@
 - 3 blade propellers: https://www.racedayquads.com/collections/2-5-65mm-props/products/gemfan-hurricane-2512-tri-blade-2-5-prop-8-pack-choose-your-color?variant=32092770402417
 - 6-blade propellers: https://www.racedayquads.com/collections/2-5-65mm-props/products/hqprop-durable-t63mmx6-hexa-blade-63mm-cinewhoop-prop-4-pack-light-gray
 - 
-  
 
 - Appropriate DC motor would have 1.5" shaft
